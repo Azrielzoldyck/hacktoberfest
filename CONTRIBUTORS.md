@@ -1,3 +1,8 @@
+#### Name: Amir Abdullah
+ - Place: Indonesia
+ - Bio: Software engineer. Cyber Security.
+ - GitHub: [Azrielzoldyck](https://github.com/Azrielzoldyck)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
